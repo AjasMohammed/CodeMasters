@@ -1,0 +1,79 @@
+1. Question: What is the capital of France?
+   Options:
+   a) Paris
+   b) London
+   c) Berlin
+   d) Rome
+Answer: Paris
+
+2. Question: Which programming language is often used for web development?
+   Options:
+   a) Python
+   b) Java
+   c) C++
+   d) Ruby
+Answer: Python
+
+3. Question: What is the largest planet in our solar system?
+   Options:
+   a) Earth
+   b) Mars
+   c) Jupiter
+   d) Saturn
+Answer: Jupiter
+
+4. Question: Who wrote the play "Romeo and Juliet"?
+   Options:
+   a) Charles Dickens
+   b) William Shakespeare
+   c) Jane Austen
+   d) Mark Twain
+Answer: William Shakespeare
+
+5. Question: What is the chemical symbol for water?
+   Options:
+   a) H2O
+   b) CO2
+   c) O2
+   d) N2
+Answer: H2O
+
+6. Question: Which of the following is not a primary color?
+   Options:
+   a) Red
+   b) Blue
+   c) Green
+   d) Yellow
+Answer: Yellow
+
+7. Question: What does HTML stand for in web development?
+   Options:
+   a) Hyper Text Markup Language
+   b) High Tech Modern Language
+   c) Hypertext Transfer Protocol
+   d) Hyperlink and Text Management Language
+Answer: Hyper Text Markup Language
+
+8. Question: Who is the CEO of Tesla?
+   Options:
+   a) Jeff Bezos
+   b) Tim Cook
+   c) Elon Musk
+   d) Bill Gates
+Answer: Elon Musk
+
+9. Question: Which of these is a front-end JavaScript framework/library?
+   Options:
+   a) Django
+   b) React
+   c) Flask
+   d) Express
+Answer: React
+
+10. Question: What is the main purpose of a CSS file in web development?
+    Options:
+    a) To define the structure of a webpage
+    b) To add interactivity to a webpage
+    c) To style and format the content of a webpage
+    d) To handle server-side logic
+Answer: To style and format the content of a webpage
